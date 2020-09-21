@@ -1,0 +1,11 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(363,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+  stdafx.cpp
+  SQLCipherViewerDlg.cpp
+  SQLCipherViewer.cpp
+  MyUtil.cpp
+z:\home\dev\working_disk\ktnc@211.238.159.192\sqlcipher-a100\sqlcipher-4.4.0_x32_x64_vs2013_aria_2020.07.01\sqlcipher\sqlcipherviewer\myutil.cpp(279): warning C4018: '>' : signed/unsigned mismatch
+z:\home\dev\working_disk\ktnc@211.238.159.192\sqlcipher-a100\sqlcipher-4.4.0_x32_x64_vs2013_aria_2020.07.01\sqlcipher\sqlcipherviewer\myutil.cpp(548): warning C4244: '=' : conversion from 'LONGLONG' to 'UINT', possible loss of data
+  MyDlg.cpp
+  CppSQLite3.cpp
+  Generating Code...
+  SQLCipherViewer.vcxproj -> Z:\home\dev\working_disk\ktnc@211.238.159.192\sqlcipher-a100\sqlcipher-4.4.0_x32_x64_vs2013_ARIA_2020.07.01\sqlcipher\\bin\Win32\Debug\SQLCipherViewer.exe

@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(363,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+  shell.c
+     Creating library Z:\home\dev\working_disk\ktnc@211.238.159.192\sqlcipher-a100\sqlcipher-4.4.0_x32_x64_vs2013_ARIA_2020.07.01\sqlcipher\\bin\Win32\Debug\sqlcipher.lib and object Z:\home\dev\working_disk\ktnc@211.238.159.192\sqlcipher-a100\sqlcipher-4.4.0_x32_x64_vs2013_ARIA_2020.07.01\sqlcipher\\bin\Win32\Debug\sqlcipher.exp
+  sqlcipher.vcxproj -> Z:\home\dev\working_disk\ktnc@211.238.159.192\sqlcipher-a100\sqlcipher-4.4.0_x32_x64_vs2013_ARIA_2020.07.01\sqlcipher\\bin\Win32\Debug\sqlcipher.dll

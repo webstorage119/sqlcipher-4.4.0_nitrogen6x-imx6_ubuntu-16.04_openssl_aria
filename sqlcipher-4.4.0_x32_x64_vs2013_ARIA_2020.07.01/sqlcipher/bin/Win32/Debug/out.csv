@@ -1,0 +1,20 @@
+
+
+index,"datetime(RecTime,'localtime')",ID,Event,Info,Card,TnAKey,AdditionalInfo
+1,"2020-09-16 17:47:20",sjjeon,IRIS,1,,Authentication,692
+2,"2020-09-16 18:01:59",sjjeon,IRIS,1,,Authentication,651
+3,"2020-09-16 18:02:39",sjjeon,IRIS,1,,Authentication,656
+4,"2020-09-16 18:03:06",sjjeon,IRIS,1,,Authentication,651
+5,"2020-09-16 18:03:16",sjjeon,IRIS,1,,Authentication,651
+6,"2020-09-16 18:04:58",sjjeon,IRIS,1,,Authentication,651
+7,"2020-09-16 18:05:18",sjjeon,IRIS,1,,Authentication,651
+8,"2020-09-16 18:06:15",sjjeon,IRIS,1,,Authentication,651
+9,"2020-09-16 18:07:08",sjjeon,IRIS,1,,Authentication,656
+10,"2020-09-16 18:10:47",sjjeon,IRIS,1,,Authentication,656
+11,"2020-09-16 18:16:48",sjjeon,IRIS,1,,Authentication,651
+12,"2020-09-16 18:16:56",sjjeon,IRIS,1,,Authentication,651
+13,"2020-09-16 18:17:12",sjjeon,IRIS,1,,Authentication,651
+14,"2020-09-16 18:18:46",sjjeon,IRIS,1,,Authentication,651
+15,"2020-09-16 18:26:18",sjjeon,IRIS,1,,Authentication,600
+16,"2020-09-16 18:26:27",sjjeon,IRIS,1,,Authentication,600
+17,"2020-09-17 09:03:59",sjjeon,IRIS,1,,Authentication,600
